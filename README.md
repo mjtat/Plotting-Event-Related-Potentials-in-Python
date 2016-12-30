@@ -1,6 +1,6 @@
 # ERPs in Python
 
-**This tutorial is meant to be a companion to my R equivalent.** See the same script in R [here](https://github.com/mjtat/Plotting-event-related-potentials-in-R/blob/master/Plotting%20Data%20for%20the%20Cognision%20EEG%20System%20in%20R.ipynb).
+**This tutorial is meant to be a companion to my R equivalent.** See the same script in R [here](https://github.com/mjtat/Plotting-event-related-potentials-in-R).
 
 **The following script will take data files output by the *COGNISION(tm)* EEG system developed by Neuronetrix.** The script find the grand average, and plot the resulting event-related potentials (ERPs). The Cognision system is a 7-electrode system used for both clinical and research purposes. In this example, we take the grand average of all the midline electrodes (FZ, CZ, PZ) from five individuals.
 
